@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.alqemam.aee.tafarud</string>
+				<string>com.alqemam.aee.tafarud.debug</string>
 				<key>bundle-version</key>
 				<string>12.7</string>
 				<key>kind</key>
