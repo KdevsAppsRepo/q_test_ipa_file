@@ -252,7 +252,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>UD4L9N5RMW.com.alqemam.aee.tafarud</string>
+				<string>UD4L9N5RMW.com.alqemam.aee.tafarud.debug3</string>
 				<key>aps-environment</key>
 				<string>production</string>
 				<key>com.apple.developer.team-identifier</key>
@@ -265,11 +265,11 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>6f5ca3d3-e87a-4b34-b0f8-7f4411c8514b</string>
+				<string>a0890078-6782-4aa1-afdb-cec410e6418f</string>
 				<key>dateExpires</key>
-				<string>13/07/2025</string>
+				<string>04/08/2025</string>
 				<key>name</key>
-				<string>iOS Team Inhouse Provisioning Profile: com.alqemam.aee.tafarud</string>
+				<string>iOS Team Inhouse Provisioning Profile: com.alqemam.aee.tafarud.debug3</string>
 			</dict>
 			<key>team</key>
 			<dict>
